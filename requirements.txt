@@ -1,6 +1,6 @@
 jupyter==1.0.0
 matplotlib==3.2.1
-numpy==1.19.0rc1
+numpy==1.22.0rc1
 fitparse==1.1.0
 python-tcxparser==1.1.0
 plotly==4.8.1
